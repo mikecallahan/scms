@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "SCMS",
+    "slug": "scms",
+    "sdkVersion": "18.0.0",
+    "backgroundImage": "./app/assets/thermosplash.PNG",
+    "backgroundColor": "#f44248"
+  }
+}
